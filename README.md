@@ -82,5 +82,5 @@ O display LCD 16x2 mostra:
 
 ## 👥 Integrantes do Grupo
 
-| [<img loading="lazy" src="./images/Marco.png" width=115><br><sub>Marco Aurélio</sub>](https://github.com/Arriatea) | [<img loading="lazy" src="./images/Bernardo.png" width=115><br><sub>Bernardo Hanashiro</sub>](https://github.com/BernardoYuji) |
+| [<img loading="lazy" src="./Marco.png" width=115><br><sub>Marco Aurélio</sub>](https://github.com/Arriatea) | [<img loading="lazy" src="./Bernardo.png" width=115><br><sub>Bernardo Hanashiro</sub>](https://github.com/BernardoYuji) |
 | :---: | :---: | :---: | :---: | :---: |
