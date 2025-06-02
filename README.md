@@ -80,7 +80,13 @@ O display LCD 16x2 mostra:
   </a>
 </p>
 
+## 🖼️ Imagem da Simulação
+
+<p align="center">
+  <img src="./simulacao.png" alt="Simulação no Wokwi" width="600">
+</p>
+
 ## 👥 Integrantes do Grupo
 
 | [<img loading="lazy" src="./Marco.png" width=115><br><sub>Marco Aurélio</sub>](https://github.com/Arriatea) | [<img loading="lazy" src="./Bernardo.png" width=115><br><sub>Bernardo Hanashiro</sub>](https://github.com/BernardoYuji) |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: |
