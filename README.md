@@ -80,6 +80,14 @@ O display LCD 16x2 mostra:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/spy7teE21R8" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="160">
+  </a>
+</p>
+
+<p align="center"><strong>🎬 Projeto de Sensor de Enchentes HidroGuard</strong></p>
+
 ## 🖼️ Imagem da Simulação
 
 <p align="center">
